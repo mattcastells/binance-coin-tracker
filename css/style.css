@@ -1,0 +1,11 @@
+#contenedorCripto {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
+
+.contenedorMoneda {
+  padding: 10px;
+}
